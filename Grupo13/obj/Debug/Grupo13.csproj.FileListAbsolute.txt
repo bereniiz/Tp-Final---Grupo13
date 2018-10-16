@@ -1,0 +1,12 @@
+C:\Users\SUTARA\Documents\Visual Studio 2012\Projects\Grupo13\Grupo13\bin\Debug\Grupo13.exe.config
+C:\Users\SUTARA\Documents\Visual Studio 2012\Projects\Grupo13\Grupo13\obj\Debug\Grupo13.csprojResolveAssemblyReference.cache
+C:\Users\SUTARA\Documents\Visual Studio 2012\Projects\Grupo13\Grupo13\bin\Debug\Grupo13.exe
+C:\Users\SUTARA\Documents\Visual Studio 2012\Projects\Grupo13\Grupo13\bin\Debug\Grupo13.pdb
+C:\Users\SUTARA\Documents\Visual Studio 2012\Projects\Grupo13\Grupo13\obj\Debug\Grupo13.exe
+C:\Users\SUTARA\Documents\Visual Studio 2012\Projects\Grupo13\Grupo13\obj\Debug\Grupo13.pdb
+C:\Users\SUTARA\Documents\Tp-Final---Grupo13\Grupo13\bin\Debug\Grupo13.exe.config
+C:\Users\SUTARA\Documents\Tp-Final---Grupo13\Grupo13\obj\Debug\Grupo13.exe
+C:\Users\SUTARA\Documents\Tp-Final---Grupo13\Grupo13\obj\Debug\Grupo13.pdb
+C:\Users\SUTARA\Documents\Tp-Final---Grupo13\Grupo13\bin\Debug\Grupo13.exe
+C:\Users\SUTARA\Documents\Tp-Final---Grupo13\Grupo13\bin\Debug\Grupo13.pdb
+C:\Users\SUTARA\Documents\Tp-Final---Grupo13\Grupo13\obj\Debug\Grupo13.csprojResolveAssemblyReference.cache
